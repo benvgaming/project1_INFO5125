@@ -1,0 +1,16 @@
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.exe
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.deps.json
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.runtimeconfig.json
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.runtimeconfig.dev.json
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.dll
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\ref\Assi1.dll
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\bin\Debug\net5.0\Assi1.pdb
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.csprojAssemblyReference.cache
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.GeneratedMSBuildEditorConfig.editorconfig
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.AssemblyInfoInputs.cache
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.AssemblyInfo.cs
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.csproj.CoreCompileInputs.cache
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.dll
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\ref\Assi1.dll
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.pdb
+E:\college\Winter 2022\INFO5125-SoftwarePattern\Project\Project1\project1_INFO5125\obj\Debug\net5.0\Assi1.genruntimeconfig.cache

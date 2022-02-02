@@ -13,7 +13,6 @@ namespace Assi1
             HeavyObject medium = new HeavyObject(7, 7, 2, 5);
             HeavyObject heavyAndSmall = new HeavyObject(5, 5, 5, 50);
 
-            /*
             // Create lists of the HeavyObjects and print them for debug purposes
             HeavyObjectList listA = new HeavyObjectList();
             listA.Add(heavyAndSmall);
@@ -38,7 +37,6 @@ namespace Assi1
             Console.WriteLine("ListC:");
             listC.Print();
             Console.WriteLine();
-            */
             
             /*
             // Create our Flyweight Factory and create the Flyweights out of it
