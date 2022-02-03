@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Author: Manh Cuong Nguyen - 0970973
+ * Class: IAggregate.cs
+ */
 
 namespace Assi1
 {
-    interface IAggregate
+    internal interface IAggregate
     {
         IIterator CreateIterator();
-    }
-}
+    }//end of interface
+}//End of Namespace

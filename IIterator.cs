@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/*
+ * Author: Manh Cuong Nguyen - 0970973
+ * Class: IIterator.cs
+ */
 
 namespace Assi1
 {
@@ -12,5 +11,7 @@ namespace Assi1
         void Next();
         bool IsDone();
         HeavyObject CurrentItem();
-    }
-}
+        int CurrentIndex();
+        HeavyObject GetPrevious();
+    }//End of interface
+}//End of Namespace

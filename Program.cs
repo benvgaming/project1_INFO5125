@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Author: Manh Cuong Nguyen - 0970973
+ * Class: Program.cs
+ */
+
+using System;
 
 namespace Assi1
 {
@@ -6,8 +11,6 @@ namespace Assi1
     {
         static void Main(string[] args)
         {
-            // Uncomment sections here as you implement them
-
             // Create our HeavyObjects (DO NOT MODIFY THESE VALUES)
             HeavyObject lightest = new HeavyObject(10, 10, 1, 1);
             HeavyObject medium = new HeavyObject(7, 7, 2, 5);
@@ -38,15 +41,12 @@ namespace Assi1
             listC.Print();
             Console.WriteLine();
             
-            /*
             // Create our Flyweight Factory and create the Flyweights out of it
             FlyweightFactory fw = new FlyweightFactory();
             StackingStrategy bottomWeight = fw.GetFlyweight("bottomWeight");
             StackingStrategy pyramid = fw.GetFlyweight("pyramid");
             StackingStrategy topple = fw.GetFlyweight("topple");
-            */
 
-            /*
             // Print results
             Console.WriteLine("BottomWeight - ListA: " + bottomWeight.EvaluateStack(listA));
             Console.WriteLine("BottomWeight - ListB: " + bottomWeight.EvaluateStack(listB));
@@ -59,7 +59,6 @@ namespace Assi1
             Console.WriteLine("Topple - ListA: " + topple.EvaluateStack(listA));
             Console.WriteLine("Topple - ListB: " + topple.EvaluateStack(listB));
             Console.WriteLine("Topple - ListC: " + topple.EvaluateStack(listC));
-            */
-        }
-    }
-}
+        }//End of Main
+    }//End of Class
+}//End of Namespace
